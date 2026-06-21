@@ -1,1 +1,2 @@
-# public
+# README
+Publicly available work
